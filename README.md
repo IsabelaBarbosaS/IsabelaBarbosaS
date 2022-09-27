@@ -1,6 +1,6 @@
 ## Oiii eu sou a Isabela Barbosa!
 
-- 🔭 Hoje trabalho como Desenvolvedora FullStack
+- 🔭 Hoje trabalho como Back End Developer
 - 🌱 Estudando Ingles , Front , Back 
 - 😄 Pronouns: ela/dela
 
