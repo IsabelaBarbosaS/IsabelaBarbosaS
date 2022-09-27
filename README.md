@@ -1,7 +1,7 @@
 ## Oiii eu sou a Isabela Barbosa!
 
 - 🔭 Hoje trabalho como Back End Developer
-- 🌱 Estudando Ingles , Front , Back 
+- 🌱 Estudando Ingles , Node.JS , TypeScript, JavaScript
 - 😄 Pronouns: ela/dela
 
 <div>
